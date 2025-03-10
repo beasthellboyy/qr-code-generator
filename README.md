@@ -12,7 +12,7 @@ Visit the [`shopify.dev` documentation](https://shopify.dev/docs/api/shopify-app
 
 ### Prerequisites
 
-Before you begin, you'll need the following:
+Before you begin, you'll need the following steps:
 
 1. **Node.js**: [Download and install](https://nodejs.org/en/download/) it if you haven't already.
 2. **Shopify Partner Account**: [Create an account](https://partners.shopify.com/signup) if you don't have one.
