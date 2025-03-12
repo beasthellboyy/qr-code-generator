@@ -1,3 +1,5 @@
+//  Shopify server JS config
+
 import "@shopify/shopify-app-remix/adapters/node";
 import {
   ApiVersion,
