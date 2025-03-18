@@ -2,7 +2,7 @@
 
 This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) using the [Remix](https://remix.run) framework.
 
-You can check this template out in the shopify.docs as well
+You can check this template out in the shopify.docs as well!!!
 
 Rather than cloning this repo, you can use your preferred package manager and the Shopify CLI with [these steps](https://shopify.dev/docs/apps/getting-started/create).
 
